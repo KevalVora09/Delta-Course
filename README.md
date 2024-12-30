@@ -1,2 +1,2 @@
 # Delta-Course
-Learning Git and Github
+Learning Git and Github.
